@@ -9,10 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+For my one-page resume, see here: <embed src="https://fionalin13.github.io/files/Fiona_Lin_Resume_Apr2025.pdf" width="500" height="375" 
+ type="application/pdf">
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
 Work experience
