@@ -2,7 +2,7 @@
 title: "Milwaukee Tool Leafblower"
 excerpt: "industry project
 <br/><img src='/images/leafblower.png'>"
-collection: portfolio
+#collection: portfolio
 ---
 
 For my digital system laboratory class final project, my teammate and I wanted to implement Conway’s Game of Life on the FPGA. We wanted to make the project challenging by proposing deliverables that would test the limits of our resources (e.g., project time, FPGA memory capacity, clock speed, number of arithmetic units, etc.). In the end, we aimed to implement these features:

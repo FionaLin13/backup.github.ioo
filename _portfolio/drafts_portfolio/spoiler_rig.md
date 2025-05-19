@@ -1,9 +1,10 @@
 ---
-title: "Search and Rescue Algorithm"
-excerpt: "2.670? Final Project
-<br/><img src='/images/moos_ivp.png'>"
-collection: portfolio
+title: "Spoiler Rig"
+excerpt: "industry project De-Ice
+<br/><img src='/images/spoiler_rig.png'>"
+#collection: portfolio
 ---
+
 
 For my digital system laboratory class final project, my teammate and I wanted to implement Conway’s Game of Life on the FPGA. We wanted to make the project challenging by proposing deliverables that would test the limits of our resources (e.g., project time, FPGA memory capacity, clock speed, number of arithmetic units, etc.). In the end, we aimed to implement these features:
 A 480 by 480 grid @ 31fps. This is large enough to require non-trivial implementation, but feasible given our clock speed.

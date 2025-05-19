@@ -2,7 +2,7 @@
 title: "Mega-bot"
 excerpt: "2.007 Final Project
 <br/><img src='/images/2007_1.png'>"
-collection: portfolio
+#collection: portfolio
 ---
 
 

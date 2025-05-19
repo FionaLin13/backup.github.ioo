@@ -2,7 +2,7 @@
 title: "Capacitive Sensing Experiment"
 excerpt: "Undergraduate Research Project
 <br/><img src='/images/capacitive_mounts.png'>"
-collection: portfolio
+#collection: portfolio
 ---
 
 <img src='/images/capacitive_arch.png'>"
