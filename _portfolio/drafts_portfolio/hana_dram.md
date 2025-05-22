@@ -23,7 +23,7 @@ KiCad, SMD soldering, PCB design rules, Raspberry Pi GPIO interface, electronics
 
 **Challenges & Solutions:**  
 - LED current limits were miscalculated due to incomplete datasheets; the first test burned them out, though the memory circuit itself still functioned  
-- Choosing proper trace sizes and layout was a challenge due to lack of prior experience, but I learned a lot about **power routing and spacing standards**
+- Choosing proper trsace sizes and layout was a challenge due to lack of prior experience, but I learned a lot about **power routing and spacing standards**
 - Balancing function and fun — incorporating art without compromising routing — helped me learn KiCad’s layer system in depth
 
 **Outcome:**  

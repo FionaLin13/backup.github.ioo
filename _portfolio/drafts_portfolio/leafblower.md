@@ -1,6 +1,6 @@
 ---
-title: "Milwaukee Tool Leafblower"
-excerpt: "industry project
+title: "Dual-Battery Leaf Blower Redesign – Milwaukee Tool Internship"
+excerpt: "full-cycle mechanical product design, aerodynamic optimization, FEA, design for manufacturing
 <br/><img src='/images/leafblower.png'>"
 #collection: portfolio
 ---
