@@ -1,7 +1,7 @@
 ---
 title: "DRAM on PCB"
 excerpt: "2.679 Final Project
-<br/><img src='/images/dram_pcb.png'>"
+<br/><img src='/images/dram_pcb.jpg'>"
 collection: portfolio
 ---
 ### 🐱 Hana DRAM – Discrete Memory on a Custom PCB
