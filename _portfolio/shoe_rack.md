@@ -1,8 +1,8 @@
 ---
-title: "DRAM on PCB"
-excerpt: "2.679 Final Project
-<br/><img src='/images/shoerack_not.png'>"
-#collection: portfolio
+title: "No Glue No Screw Shoe Rack"
+excerpt: "Midnight furniture frenzy
+<br/><img src='/images/shoerack_not.jpg'>"
+collection: portfolio
 ---
 
 ### 🪵 Improvised Shoerack

@@ -2,7 +2,7 @@
 title: "Dual-Battery Leaf Blower Redesign – Milwaukee Tool Internship"
 excerpt: "full-cycle mechanical product design, aerodynamic optimization, FEA, design for manufacturing
 <br/><img src='/images/leafblower.png'>"
-#collection: portfolio
+collection: portfolio
 ---
 
 # 🍃 Dual-Battery Leaf Blower Redesign – Milwaukee Tool Internship

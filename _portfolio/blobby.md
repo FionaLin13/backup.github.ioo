@@ -7,6 +7,10 @@ collection: portfolio
 
 ## 🐡 Blobby the Blobfish Pendant
 
+<img title="a title" alt="Alt text" src="/images/blobby_top.jpg">
+
+<em>Figure: Blobby the Blobfish pendant, printed using metal powder 3D printing.</em>
+
 **Type:** Class project (with personal flair)  
 **Tools:** Fusion360, metal 3D printing (powder-based)  
 **Skills:** Freeform CAD, design for additive manufacturing
@@ -17,6 +21,3 @@ At the time, I had just started learning Fusion360. This project was my first ex
 
 The end result? A custom metal pendant that I still wear today—and a compliment from a seasoned CAD friend who was impressed I pulled this off in Fusion360 alone.
 
-![Blobby the Blobfish - Pendant](https://raw.githubusercontent.com/your-username/your-repo/main/blobby-front.jpg)
-
-<em>Figure: Blobby the Blobfish pendant, printed using metal powder 3D printing.</em>

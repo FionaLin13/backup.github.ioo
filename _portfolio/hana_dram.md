@@ -6,9 +6,9 @@ collection: portfolio
 ---
 ### 🐱 Hana DRAM – Discrete Memory on a Custom PCB
 
-![Alt Text](images/dram_schematic.jpg)
-![Alt Text](images/dram_final_top.jpg)
-![Alt Text](images/dram_final_back.jpg)
+<img title="a title" alt="Alt text" src="/images/dram_schematic.jpg">
+<img title="a title" alt="Alt text" src="/images/dram_final_top.jpg">
+<img title="a title" alt="Alt text" src="/images/dram_final_back.jpg">
 
 **Goal:**  
 As part of MIT’s 2.679 (Electronics for Mechanical Engineers), the goal was to design, manufacture, and hand-solder a custom PCB that interfaces with a Raspberry Pi. The project was open-ended, with only two constraints: Pi compatibility and board size.

@@ -1,11 +1,15 @@
 ---
 title: "Search and Rescue Algorithm"
 excerpt: "2.680 Final Project
-<br/><img src='/images/marine_vehicles.png'>"
+<br/><img src='/images/marine_vehicles.jpg'>"
 collection: portfolio
 ---
-
+credit to Mike Benjamin for pictures
 ## 🛟 Cooperative Marine Search & Rescue  
+
+<img title="a title" alt="Alt text" src="/images/marine_lookin.jpg">
+<img title="a title" alt="Alt text" src="/images/marine_briefing.jpg">
+
 **Class Project · MIT 2.680: Unmanned Marine Vehicle Autonomy · Spring 2023**  
 **Languages/Tools:** C++, MOOS-IvP, iMarineSim, GitLab
 
