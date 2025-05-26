@@ -1,10 +1,14 @@
 ---
 title: "DRAM on PCB"
 excerpt: "2.679 Final Project
-<br/><img src='/images/dram.png'>"
+<br/><img src='/images/dram_pcb.png'>"
 collection: portfolio
 ---
 ### 🐱 Hana DRAM – Discrete Memory on a Custom PCB
+
+![Alt Text](images/dram_schematic.jpg)
+![Alt Text](images/dram_final_top.jpg)
+![Alt Text](images/dram_final_back.jpg)
 
 **Goal:**  
 As part of MIT’s 2.679 (Electronics for Mechanical Engineers), the goal was to design, manufacture, and hand-solder a custom PCB that interfaces with a Raspberry Pi. The project was open-ended, with only two constraints: Pi compatibility and board size.
