@@ -1,19 +1,31 @@
 ---
 title: "Capacitive Sensing Experiment"
-excerpt: "Undergraduate Research Project
+excerpt: "Sensor design, experimental setup, embedded programming, data analysis
 <br/><img src='/images/capacitive_mounts.png'>"
 collection: portfolio
 ---
 
 <img src='/images/capacitive_arch.png'>"
 
-High-resolution sensing on robotic fingers has to potential to enable better grasping by robotic hands. I designed an experiment to evaluate the feasibility of using capacitive sensors for such applications.
+# 🤖 Capacitive Sensing for Robotic Fingers  
+**Type:** Undergraduate Research · MIT Biomimetics Lab  
+**Skills:** Sensor design, experimental setup, embedded programming, data analysis
 
-In the experiment, objects of various materials are put in the proximity of capacitive sensors of various designs. For the experiment, I designed:
-Mounts that hold the sensors and samples on the horizontal slider jig
-Capacitive sensors
-Mbed program that records capacitance and automatically controls the stepper motor on the jig
-Arduino code to extract raw capacitive data from off-the-shelf sensors
-Python script to tie all the components together and perform analysis
+## Goal  
+As part of my research in the MIT Biomimetics Lab, I investigated the feasibility of using capacitive sensors to enable high-resolution proximity sensing in robotic fingers. The high-resolution proximity sensing enables robotic hands to use forces less than 1 Newton for complex grasping and object manipulation.
 
-My system could detect a change in proximity within 0.1 mm, better than the required resolution of 1 mm. My experiment convinced my supervisors to further investigate the integration of capacitive sensors on the existing robotic hand platform.
+## My Role  
+I led the design and implementation of a experimental pipeline to characterize sensor performance. I iterated through different geometries for the capacitive sensors and tested the sensor performance for various materials.
+
+**My contributions included:**
+- Designing and fabricating mounts to hold sensors and test materials on a horizontal slider jig  
+- Prototyping custom capacitive sensors  
+- Programming an Mbed microcontroller to read capacitance and control a stepper motor for precise positioning  
+- Writing Arduino code to extract raw data from off-the-shelf capacitive sensors  
+- Developing a Python script to synchronize system components and analyze the sensor response
+
+## Outcome  
+The system achieved a proximity resolution of 0.1 mm, meeting requirements and exceeding the 1 mm resolution target. Based on these results, the lab team decided to pursue further integration of capacitive sensing into their robotic hand platform.
+
+## What I Learned  
+This project strengthened my skills in sensor integration, embedded systems, and experimental validation. It also reinforced the importance of interdisciplinary thinking when connecting mechanical design, hardware control, and software analysis in robotics research.

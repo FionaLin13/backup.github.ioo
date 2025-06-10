@@ -5,7 +5,7 @@ excerpt: "2.680 Final Project
 collection: portfolio
 ---
 credit to Mike Benjamin for pictures
-## 🛟 Cooperative Marine Search & Rescue  
+## ⛵ Cooperative Marine Search & Rescue  
 
 <img title="a title" alt="Alt text" src="/images/marine_lookin.jpg">
 <img title="a title" alt="Alt text" src="/images/marine_briefing.jpg">

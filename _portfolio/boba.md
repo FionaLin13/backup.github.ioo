@@ -4,7 +4,7 @@ excerpt: "2.671 final project
 <br/><img src='/images/boba_poster.jpg'>"
 collection: portfolio
 ---
-### 🍬 Boba Chewiness Experiment  
+# 🍬 Boba Chewiness Experiment  
 
 <embed src="/files/Lin_F_Final_Paper.pdf" width="800px" height="2100px" />
 <embed src="/files/Th_14_Lin_BobaSoaking.pdf" width="800px" height="2100px" />
@@ -29,8 +29,5 @@ The data showed that **higher sugar concentrations correlated with increased che
 This project deepened my skills in experimental design, statistical analysis, and working with lab instrumentation. I also practiced synthesizing academic research with real-world questions — and of course, enjoyed some boba along the way.
 
 
-see the boba squishing in action here: 
-
-<a href="https://www.youtube.com/shorts/SJwp3z-gHto">link text</a>
-
+See the boba squishing in action [here](https://www.youtube.com/shorts/SJwp3z-gHto)
 

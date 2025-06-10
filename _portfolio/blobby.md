@@ -5,7 +5,7 @@ excerpt: "trying out freeform in Fusion360
 collection: portfolio
 ---
 
-## 🐡 Blobby the Blobfish Pendant
+# 🐡 Blobby the Blobfish Pendant
 
 <img title="a title" alt="Alt text" src="/images/blobby_top.jpg">
 
