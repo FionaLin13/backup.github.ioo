@@ -1,0 +1,10 @@
+a.image-popup {
+    max-width: 500px;
+}
+
+img {
+    width: 100%;
+    max-width: 500px;
+    margin-top: 15px;
+    border-radius: 15px;
+}

@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Fiona Lin"
   pronouns         : "she/her"  
-  bio              : "Mechatronics engineer, recent graduate from MIT"
-  location         : "Allston, MA"
-  employer         : "Actively looking for jobs"
+  bio              : "Mechatronics engineer"
+  location         : "Boston, MA"
+  employer         : "Open to new positions"
   uri              : # URL
-  email            : "fionalin@mit.edu" 
+  email            : "fionalin@mit.edu"
 
   # Academic websites
   academia         : # URL
@@ -246,7 +246,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: talk
       author_profile: true
   # _teaching
   - scope:
@@ -271,7 +271,7 @@ defaults:
       path: ""
       type: portfolio
     values:
-      layout: single
+      layout: talk
       author_profile: true
       share: true
       comment: true

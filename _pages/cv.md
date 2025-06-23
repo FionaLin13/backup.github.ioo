@@ -9,12 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-For my one-page resume, see here: <embed src="https://fionalin13.github.io/files/Fiona_Lin_Resume_Apr2025.pdf" width="500" height="375" 
- type="application/pdf">
+**One page resume here:** <a href="https://fionalin13.github.io/files/Fiona_Lin_Resume_Apr2025.pdf">Resume</a>
 
 # Fiona Lin
 
-📍 Allston, MA  
+📍 Boston, MA  
 📞 754-301-1573  
 📧 fionalin@mit.edu  
 
@@ -39,6 +38,11 @@ Human Systems Engineering, Dynamics and Control I & II, Numerical Computation fo
 ---
 
 ## 🔬 Research Experience
+
+**MIT Del Vecchio Lab - Graduate Researcher**  
+*Sep. 2024 – Mar. 2025*
+- Modeled non-linear biological circuits using ordinary differential equations (ODEs) and Python to simulate system behavior
+- Identified and evaluated key parameters affecting equilibrium points and their stability in biological circuit dynamics
 
 **MIT Biomimetics Lab – Undergraduate Researcher**  
 *Jan. 2022 – Sep. 2022*  
@@ -71,6 +75,12 @@ Human Systems Engineering, Dynamics and Control I & II, Numerical Computation fo
 ---
 
 ## 🏭 Industry Experience
+
+**De-Ice - Mechanical Engineering Intern**  
+*June 2024 – Aug. 2024*
+- Developed functional requirements for power delivery system components to meet aviation regulations
+- Proposed and prototyped two design concepts, and built a testing rig to simulate airplane spoiler movement
+- Evaluated performance of both designs, which met FAA component reliability regulations
 
 **Milwaukee Tool – Mechanical Engineering Intern**  
 *June 2023 – Aug. 2023*  

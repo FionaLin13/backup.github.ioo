@@ -16,7 +16,7 @@ redirect_from:
 
 **I excel at thinking across disciplines, and I’m always looking for new ways to bridge physical and digital systems**. I have experience in mechanical design, electronics, embedded systems, and autonomy. I am comfortable both in the machine shop and in my IDE.
 
-**I am interested in roles such as Robotics Engineer, Mechatronics Engineer, Control Systems Engineer, and Field Engineer**. But I’m also open to breaking into new fields and tackling new challenges.
+**I am interested in roles such as Mechanical Engineer, Robotics Engineer, Mechatronics Engineer, Control Systems Engineer, and Field Engineer**. But I’m also open to breaking into new fields and tackling new challenges.
 
 Outside of engineering, I love solving puzzles and learning new ideas from others. I also love any chance to use my maker chops to enrich life, such as sewing, crocheting, baking, or making furniture.
 
