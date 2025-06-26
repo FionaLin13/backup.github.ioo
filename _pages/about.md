@@ -20,4 +20,4 @@ redirect_from:
 
 Outside of engineering, I love solving puzzles and learning new ideas from others. I also love any chance to use my maker chops to enrich life, such as sewing, crocheting, baking, or making furniture.
 
-Thanks for stopping by — feel free to explore my projects, or [get in touch](#contact)!
+Thanks for stopping by — feel free to explore my projects, or get in touch at fionalin at mit dot edu!
